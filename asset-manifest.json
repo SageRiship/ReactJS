@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJS/WebServiceWebsite/static/css/main.f8f51651.css",
+    "main.js": "/ReactJS/WebServiceWebsite/static/js/main.d5c722d9.js",
+    "static/js/787.71e672d5.chunk.js": "/ReactJS/WebServiceWebsite/static/js/787.71e672d5.chunk.js",
+    "static/media/web.jpg": "/ReactJS/WebServiceWebsite/static/media/web.b01fe58a627e40c3b75b.jpg",
+    "static/media/computer.jpg": "/ReactJS/WebServiceWebsite/static/media/computer.21f800c63d6c4af29f4b.jpg",
+    "static/media/food.jpg": "/ReactJS/WebServiceWebsite/static/media/food.4fb3e8109f6346788e34.jpg",
+    "static/media/app.jpg": "/ReactJS/WebServiceWebsite/static/media/app.0125e8132ce1ad8ad895.jpg",
+    "static/media/mobile.jpg": "/ReactJS/WebServiceWebsite/static/media/mobile.6b65286e8265e2c4b75a.jpg",
+    "static/media/delivery.jpg": "/ReactJS/WebServiceWebsite/static/media/delivery.04c4bdb376c41970839f.jpg",
+    "static/media/coder.jpg": "/ReactJS/WebServiceWebsite/static/media/coder.29e4936da904ea0e2e1b.jpg",
+    "index.html": "/ReactJS/WebServiceWebsite/index.html",
+    "main.f8f51651.css.map": "/ReactJS/WebServiceWebsite/static/css/main.f8f51651.css.map",
+    "main.d5c722d9.js.map": "/ReactJS/WebServiceWebsite/static/js/main.d5c722d9.js.map",
+    "787.71e672d5.chunk.js.map": "/ReactJS/WebServiceWebsite/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8f51651.css",
+    "static/js/main.d5c722d9.js"
+  ]
+}
